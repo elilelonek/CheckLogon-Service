@@ -1,0 +1,4 @@
+Operating Systems:
+  Windows 7 - to use with CheckLogon_Service7.exe (Supporting Powershell and .net engine 2.0)
+  Windows 10 - to use with CheckLogonService10.exe (Supporting Powershell 3.0^)
+Run with Local Admin account ( default manifest for elevation is embedded )
